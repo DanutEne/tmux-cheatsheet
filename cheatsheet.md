@@ -24,7 +24,7 @@ Prefix + [ = enter edit mode vi
 
 Prefix + Alt + Shift + P = saves the session to a log file
 ```
-### slipts
+### splits
 ```
 Prefix + % = vertical split
 
