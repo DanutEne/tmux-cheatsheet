@@ -4,7 +4,7 @@ The standard Prefix key is changed due to the custom configuration. So now the P
 
 #### Ctrl + a = Prefix Key 
 
-to use this custom configuration please edit/create the .tmux.conf file, which can be found in your home directory.
+To use this custom configuration please edit/create the .tmux.conf file, which can be found in your home directory.
 ```
 vi ~/.tmux.conf
 ```
