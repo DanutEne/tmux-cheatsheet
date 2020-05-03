@@ -1,4 +1,14 @@
-### Crtl + b = Prefix Key | but this default option is changed due to the custom configuration. So now the Prefix Key is Ctrl + a
+#### Crtl + b = Standard Prefix Key 
+
+The standard Prefix key is changed due to the custom configuration. So now the Prefix Key is Ctrl + a
+
+#### Ctrl + a = Prefix Key 
+
+to use this custom configuration please edit/create the .tmux.conf file, which can be found in your home directory.
+```
+vi ~/.tmux.conf
+```
+Use the config file attacked to this repo as a reference.
 
 ### general commands
 ```
