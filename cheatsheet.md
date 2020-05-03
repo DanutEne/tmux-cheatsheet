@@ -1,4 +1,4 @@
-### Crtl + b = Prefix Key
+### Crtl + b = Prefix Key | but this default option is changed due to the custom configuration. So now the Prefix Key is Ctrl + a
 
 ### general commands
 ```
